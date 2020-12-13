@@ -2,6 +2,15 @@
 
 ## JavaScriptmas 🎅
 
+#### [Dec 13] Extract Each Kth
+https://scrimba.com/scrim/coe804828b73e43342aac1039
+
+#### [Dec 12] Valid Time
+https://scrimba.com/scrim/co19645db9cc1275cf8188064
+
+#### [Dec 11] Avoid Obstacles
+https://scrimba.com/scrim/coe284d838f7ed55b6df6e12b
+
 #### [Dec 10] Adjacent Elements Product
 https://scrimba.com/scrim/cocf545389518ecb2da01c9f7
 
