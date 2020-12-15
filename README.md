@@ -2,6 +2,12 @@
 
 ## JavaScriptmas 🎅
 
+#### [Dec 15] Carousel
+https://scrimba.com/scrim/cobd0463d8232b4358346587d
+
+#### [Dec 14] Maximal Adjacent Difference
+https://scrimba.com/scrim/coc414612889aefb48f62e2fa
+
 #### [Dec 13] Extract Each Kth
 https://scrimba.com/scrim/coe804828b73e43342aac1039
 
