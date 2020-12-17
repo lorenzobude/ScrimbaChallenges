@@ -2,6 +2,12 @@
 
 ## JavaScriptmas 🎅
 
+#### [Dec 17] Different Symbols Naive
+https://scrimba.com/scrim/co9ae41d78bfd7b8bc480559b
+
+#### [Dec 16] Insert Dashes
+https://scrimba.com/scrim/co75a403eb7bb3956e99f521c
+
 #### [Dec 15] Carousel
 https://scrimba.com/scrim/cobd0463d8232b4358346587d
 
