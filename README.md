@@ -2,6 +2,15 @@
 
 ## JavaScriptmas 🎅
 
+#### [Dec 20] Domain Type
+https://scrimba.com/scrim/co86c49e6a50b13d32884cd07
+
+#### [Dec 19] Alphabet Subsequence
+https://scrimba.com/scrim/co48a4e42b37e5dce70e2e52f
+
+#### [Dec 18] Array Previous Less
+https://scrimba.com/scrim/co2f54ef58ecaffcec8e832e6
+
 #### [Dec 17] Different Symbols Naive
 https://scrimba.com/scrim/co9ae41d78bfd7b8bc480559b
 
