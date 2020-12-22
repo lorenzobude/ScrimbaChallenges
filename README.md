@@ -2,6 +2,12 @@
 
 ## JavaScriptmas 🎅
 
+#### [Dec 22] Extract Matrix Column
+https://scrimba.com/scrim/co45b403b9b51628396d47f63
+
+#### [Dec 21] Sum of Two
+https://scrimba.com/scrim/co32846f3acb5a1f20ebaf390
+
 #### [Dec 20] Domain Type
 https://scrimba.com/scrim/co86c49e6a50b13d32884cd07
 
