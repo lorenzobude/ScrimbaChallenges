@@ -2,6 +2,9 @@
 
 ## JavaScriptmas 🎅
 
+#### [Dec 23] Tweet Component
+https://scrimba.com/scrim/co6564fc7acc16847364f67b7
+
 #### [Dec 22] Extract Matrix Column
 https://scrimba.com/scrim/co45b403b9b51628396d47f63
 
