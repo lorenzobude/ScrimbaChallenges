@@ -1,6 +1,6 @@
 # Scrimba Challenges
 
-## JavaScriptmas 🎅
+## JavaScriptmas 2020 🎅
 
 #### [Dec 23] Tweet Component
 https://scrimba.com/scrim/co6564fc7acc16847364f67b7
